@@ -12,4 +12,4 @@ string NumbRec(int n)
 
 Console.Write("Введите значение N ");
 int n = Convert.ToInt32(Console.ReadLine());
-Console.Write(NumbRec(n));
+Console.Write($"N = {n} -> \"{NumbRec(n)}\"");
