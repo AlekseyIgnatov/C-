@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Alex\\КУРСЫ\\C#\\Lesson8\\Example54\\Example54.csproj": {}
+    "C:\\Alex\\КУРСЫ\\C#\\Lesson8\\example54\\Example54.csproj": {}
   },
   "projects": {
-    "C:\\Alex\\КУРСЫ\\C#\\Lesson8\\Example54\\Example54.csproj": {
+    "C:\\Alex\\КУРСЫ\\C#\\Lesson8\\example54\\Example54.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Alex\\КУРСЫ\\C#\\Lesson8\\Example54\\Example54.csproj",
+        "projectUniqueName": "C:\\Alex\\КУРСЫ\\C#\\Lesson8\\example54\\Example54.csproj",
         "projectName": "Example54",
-        "projectPath": "C:\\Alex\\КУРСЫ\\C#\\Lesson8\\Example54\\Example54.csproj",
+        "projectPath": "C:\\Alex\\КУРСЫ\\C#\\Lesson8\\example54\\Example54.csproj",
         "packagesPath": "C:\\Users\\main station\\.nuget\\packages\\",
-        "outputPath": "C:\\Alex\\КУРСЫ\\C#\\Lesson8\\Example54\\obj\\",
+        "outputPath": "C:\\Alex\\КУРСЫ\\C#\\Lesson8\\example54\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\main station\\AppData\\Roaming\\NuGet\\NuGet.Config"

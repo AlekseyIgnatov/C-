@@ -42,14 +42,11 @@ Console.Write($"Введите количество строк ");
 int rows = Convert.ToInt32(Console.ReadLine());
 Console.Write($"Введите количество столбцов ");
 int columns = Convert.ToInt32(Console.ReadLine());
-
-int n = rows * columns;
 int[,] array = new int[rows, columns];
 
 FillArray(array);
 PrintArray(array);
-
 SortArray(array);
-
+Console.WriteLine($"");
 Console.WriteLine($"Отсортированный массив выглядит так:");
 PrintArray(array);
