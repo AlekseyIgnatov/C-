@@ -35,6 +35,9 @@ void SortArray(int[,] array)
 
 }
 
+
+
+
 Console.Write($"Введите количество строк ");
 int rows = Convert.ToInt32(Console.ReadLine());
 Console.Write($"Введите количество столбцов ");
